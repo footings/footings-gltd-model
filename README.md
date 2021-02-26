@@ -1,0 +1,1 @@
+# footings-gltd-model
